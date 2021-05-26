@@ -1,4 +1,18 @@
-### Hi there 👋
+### It's me, Ian Cristhian 
+**Welcome**, I am a junior developer from Brazil. I love to learn new things and have new experiences on my life. I learn fast and I improve myself fast in it too.
+
+## Detailed information
+**Name:** Ian Cristhian\
+**Age:** 18\
+**Living in:** Alagoas, Maceió, Brazil\
+**Stack:** Python - Javascript - C
+
+## Curiosities about me
+* My first programming language was Lua. I learned using a Minecraft modification called Computercraft. After that I fell in love with programming.
+* When I was 14 years old, I used Python to make a program that helped me to memorize for the exam.
+
+## Let's talk
+U can add me on Discord `Mizuky#6635`, and feel free to talk with me.
 
 <!--
 **zMizuky/zMizuky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
