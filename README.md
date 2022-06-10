@@ -3,7 +3,7 @@
 
 ## Detailed information
 **Name:** Ian Cristhian\
-**Age:** 18\
+**Age:** 19\
 **Living in:** Alagoas, Maceió, Brazil\
 **Stack:** Python - Javascript - C
 
