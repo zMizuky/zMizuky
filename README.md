@@ -1,30 +1,29 @@
-### It's me, Ian
-**Welcome**, I am a junior developer from Brazil. I love to learn new things and have new experiences on my life. I learn fast and I improve myself fast in it too.
+<h1 align="center"><b>Hi, It's me, Ian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## About me
+I'm a junior developer from Brazil, always seeking to expand my knowledge in programming, especially low-level development. I constantly strive to improve both my theoretical understanding and practical coding skills.\
+You can check out what I'm studying or programming on my [blog](https://zmizuky.github.io/IanMatrix/).
 
-## Detailed information
-**Name:** Ian\
-**Age:** 21\
-**Living in:** Alagoas, Maceió, Brazil\
-**Stack:** Python - Javascript - C
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack</b>
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%23000080?style=for-the-badge&logo=lua&logoColor=white)
 
-## Curiosities about me
-* My first programming language was Lua. I learned using a Minecraft modification called Computercraft. After that I fell in love with programming.
-* When I was 14 years old, I used Python to make a program that helped me to memorize for the exam.
+<details>
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
+![IanMatrix](https://github.com/zMizuky/IanMatrix) - A blog that showcases what I'm learning \
+![iMatrix](https://github.com/zMizuky/iMatrix) - A game engine built with SDL3
+
+<br />
+</details>
 
 ## Let's talk
 You can add me on Discord `guizeline`, and feel free to talk with me.
-
-<!--
-**zMizuky/zMizuky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
